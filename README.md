@@ -1,2 +1,2 @@
-# Mija
-This is my first repository
+# Section Editions
+Includes first edition with revisions
